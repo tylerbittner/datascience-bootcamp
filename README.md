@@ -1,5 +1,5 @@
 # datascience-bootcamp
-Data Science Boot Camp mentored by Lauren Washington.  Custom curriculum modeled after Thinkful's 12-week Data Science program.
+Content from my [Data Science Career Accelerator](https://mailchi.mp/0f6cbc6dc24c/data_career_accelerator) mentored by Lauren Washington.  The custom curriculum is modeled after [Thinkful's 12-week Data Science program](https://www.thinkful.com/bootcamp/data-science/flexible/) which she also mentors through.
 
 ## Syllabus:
 - Week 1: Multivariate Calculus
