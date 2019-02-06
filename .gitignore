@@ -1,3 +1,9 @@
-.ipynb_checkpoints
-
 .DS_Store
+
+.ipynb_checkpoints
+.idea/
+venv/
+
+# Project-specific:
+datasets-unused/
+Lauren's Example Notebooks/
