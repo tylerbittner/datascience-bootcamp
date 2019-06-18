@@ -3,14 +3,14 @@ Content from my [Data Science Career Accelerator](https://mailchi.mp/0f6cbc6dc24
 
 ## Syllabus:
 - Week 1: Multivariate Calculus
-- Week 2: Statistics and Probability
+- [Week 2: Statistics and Probability](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-2)
 - Week 3: Linear Algebra
-- Week 4: Intro to Python for Data Science (Importing Data, Cleaning Data, and Manipulating DataFrames with pandas)
-- Week 5: Data Visualization  
-- Week 6: Statistical Thinking in Python
-- Week 7: Unsupervised Learning and PCA
-- Week 8: Supervised Learning
-- Week 9: Supervised Learning
-- Week 10: Deep Learning
-- Week 11: Time Series, NLP, and Network Analysis 
-- Week 12: Final Capstone Project
+- [Week 4: Intro to Python for Data Science (Importing Data, Cleaning Data, and Manipulating DataFrames with pandas)](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-4)
+- [Week 5: Data Visualization](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-5)
+- [Week 6: Statistical Thinking in Python](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-6)
+- [Week 7: Unsupervised Learning and PCA](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-7)
+- [Week 8: Supervised Learning](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-8)
+- [Week 9: Unsupervised Learning](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-9)
+- [Week 10: Deep Learning](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-10)
+- Week 11: Advanced Deep Learning
+- [Week 12: Time Series, NLP, and Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
