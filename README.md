@@ -8,9 +8,9 @@ Content from my [Data Science Career Accelerator](https://mailchi.mp/0f6cbc6dc24
 - Week 4: Intro to Python for Data Science (Importing Data, Cleaning Data, and Manipulating DataFrames with pandas)
 - Week 5: Data Visualization  
 - Week 6: Statistical Thinking in Python
-- Week 7: Unsupervised Learning and PCA
-- Week 8: Supervised Learning
-- Week 9: Supervised Learning
+- Week 7: Advanced SQL
+- Week 8: Supervised Learning with Scikit-Learn
+- Week 9: Unsupervised Learning and Dimension Reduction
 - Week 10: Deep Learning
-- Week 11: Time Series, NLP, and Network Analysis 
-- Week 12: Final Capstone Project
+- Week 11: Advanced Deep Learning
+- Week 12: Network Analysis
