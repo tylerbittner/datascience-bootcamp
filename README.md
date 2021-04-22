@@ -16,10 +16,11 @@ This repo contains exercises, course notes, and Jupyter notebooks from my [Data 
   - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-7/Notes%20-%20Week%207%20-%20Advanced%20SQL.ipynb)
 - Week 8: [Supervised Learning with Scikit-Learn](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-8)
   - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-8/Notes%20-%20Week%208%20-%20Supervised%20Learning.ipynb)
-- Week 9: [Unsupervised Learning and Dimension Reduction](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-9)
+- Week 9: [Unsupervised Learning and Dimensionality Reduction](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-9)
   - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-9/Notes%20-%20Week%209%20-%20Unsupervised%20Learning.ipynb)
 - Week 10: [Deep Learning in Python](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-10)
   - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-10/Notes%20-%20Week%2010%20-%20Deep%20Learning.ipynb)
 - Week 11: Advanced Deep Learning
 - Week 12: [Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
   - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-12/Week%2012%20-%20Time%20Series%2C%20NLP%2C%20and%20Network%20Analysis.ipynb)
+  <!--     - TODO: Time Series and NLP courses  -->
